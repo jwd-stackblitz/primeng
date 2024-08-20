@@ -33,11 +33,6 @@
             "styles": [
               "src/styles.scss",
               "node_modules/primeicons/primeicons.css",
-              {
-                "input": "node_modules/primeng/resources/themes/lara-dark-blue/theme.css",
-                "bundleName": "lara-dark-blue",
-                "inject": false
-              },
               "node_modules/primeng/resources/primeng.min.css"
             ],
             "stylePreprocessorOptions": {
